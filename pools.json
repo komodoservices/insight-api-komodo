@@ -1,26 +1,5 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zcash.flypool.org/",
-    "searchStrings": [
-      "/flypool/"
-    ]
-  },
-  {
-    "poolName": "NaN",
-    "url": "",
-    "searchStrings": [
-      "/NaN"
-    ]
-  },
-  {
-    "poolName": "Stratum",
-    "url": "",
-    "searchStrings": [
-      "/nodeStratum/"
-    ]
-  },
-  {
     "poolName": "CoinBlockers",
     "url": "https://kmd.coinblockers.com",
     "searchStrings": [
@@ -28,10 +7,38 @@
     ]
   },
   {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
+    "poolName": "z-nomp",
+    "url": "https://github.com/z-classic/z-nomp",
     "searchStrings": [
-      "{ZMINE.IO}"
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "kmd-nomp",
+    "url": "https://github.com/komodoservices/kmd-nomp",
+    "searchStrings": [
+      "KMD-NOMP! https://github.com/komodoservices/kmd-nomp"
+    ]
+  },
+  {
+    "poolName": "Stratum",
+    "url": "https://github.com/komodoservices/kmd-nomp",
+    "searchStrings": [
+      "/nodeStratum/"
+    ]
+  },
+  {
+    "poolName": "pool.komodo.services",
+    "url": "http://pool.komodo.services",
+    "searchStrings": [
+      "pool.komodo.services http://pool.komodo.services"
+    ]
+  },
+  {
+    "poolName": "xrobesx_POOL",
+    "url": "https://komodo.services",
+    "searchStrings": [
+      "xrobesx_POOL https://komodo.services"
     ]
   }
 ]

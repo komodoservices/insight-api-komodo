@@ -40,5 +40,12 @@
     "searchStrings": [
       "xrobesx_POOL https://komodo.services"
     ]
+  },
+  {
+    "poolName": "Waterpark",
+    "url": "https://www.waterparkmining.com",
+    "searchStrings": [
+      "Waterpark"
+    ]
   }
 ]
